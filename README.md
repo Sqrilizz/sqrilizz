@@ -3,15 +3,11 @@
 I'm **Sqrilizz** — a developer exploring the boundaries of code, cryptography, and immersive design.  
 I enjoy building complex systems, ARGs, and custom tools for Minecraft.
 
-- 🔭 Currently working on:  
-  • **VERLUM ARG** — an experimental alternate reality game  
-  • **Minecraft plugins** — custom server mechanics and tools  
+- 🔭 Currently working on:   
   • **QuantumKit** — a powerful framework for encryption, puzzles, and interactive logic
 
 - 🌐 Project website: [sqrilizz.xyz](https://sqrilizz.xyz)
 - 🌐 Other domain [sqrilizz.fun](https://sqrilizz.fun)
-- 🧩 Interests: cryptography, game design, Linux, Discord bots, Minecraft Development
-- 📚 Learning: Mid-level programming, system architecture, 
 - 📫 Reach me on Discord: `sqrilizzy`
 
 > "There are no boundaries—only access levels."
