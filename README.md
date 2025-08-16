@@ -7,7 +7,7 @@ I enjoy building complex systems, ARGs, and custom tools for Minecraft.
   • **QuantumKit** — a powerful framework for encryption, puzzles, and interactive logic
 
 - 🌐 Personal website: [sqrilizz.xyz](https://sqrilizz.xyz)
-- 🌐 Other domain [sqrilizz.fun](https://sqrilizz.fun)
+- 🌐 Other domain that i own [sqrilizz.fun](https://sqrilizz.fun)
 - 📫 Reach me on Discord: `sqrilizzy`
 
 > "There are no boundaries—only access levels."
