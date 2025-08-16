@@ -6,7 +6,7 @@ I enjoy building complex systems, ARGs, and custom tools for Minecraft.
 - 🔭 Currently working on:   
   • **QuantumKit** — a powerful framework for encryption, puzzles, and interactive logic
 
-- 🌐 Project website: [sqrilizz.xyz](https://sqrilizz.xyz)
+- 🌐 Personal website: [sqrilizz.xyz](https://sqrilizz.xyz)
 - 🌐 Other domain [sqrilizz.fun](https://sqrilizz.fun)
 - 📫 Reach me on Discord: `sqrilizzy`
 
