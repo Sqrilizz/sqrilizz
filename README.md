@@ -8,6 +8,7 @@ I enjoy building complex systems, ARGs, and custom tools for Minecraft.
 
 - 🌐 Personal website: [sqrilizz.xyz](https://sqrilizz.xyz)
 - 🌐 Other domain that i own [sqrilizz.fun](https://sqrilizz.fun)
+- 🌐 [estpyro.shop](https://estpyro.shop)
 - 📫 Reach me on Discord: `sqrilizzy`
 
 > "There are no boundaries—only access levels."
