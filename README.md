@@ -1,7 +1,6 @@
 ## Hey there 👋
 
-I'm **Sqrilizz** — a developer exploring the boundaries of code, cryptography, and immersive design.  
-I enjoy building complex systems, ARGs, and custom tools for Minecraft.
+I'm **Sqrilizz** — Estonian Developer
 
 - 🔭 Currently working on:   
   • **QuantumKit** — a powerful framework for encryption, puzzles, and interactive logic
