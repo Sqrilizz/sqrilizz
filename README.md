@@ -4,6 +4,7 @@ I'm **Sqrilizz** — Estonian Developer
 
 - 🔭 Currently working on:   
   • **QuantumKit** — a powerful framework for encryption, puzzles, and interactive logic
+
   • **Learnly** - Most powerful learning app, that allows you to practice and learn (Based on top 100 AI models)
 
 - 🌐 Personal website: [sqrilizz.xyz](https://sqrilizz.xyz)
