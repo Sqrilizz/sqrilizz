@@ -1,4 +1,4 @@
-## Hey there 👋
+ ## Hey there 👋
 
 I'm **Sqrilizz** — Developer from Estonia 🚀  
 Building tools that merge **logic, AI, and creativity**.  
@@ -6,7 +6,7 @@ Building tools that merge **logic, AI, and creativity**.
 ---
 
 ### 🔭 Currently working on
-- 🧩 **QuantumKit** — encryption, puzzles & interactive logic framework  
+- 🧩 **QuantumKit** — Powerfull Discord / Network Tool
 - 📚 **Learnly** — AI-powered learning app (built on top 100 AI models)  
 
 ---
