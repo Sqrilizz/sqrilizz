@@ -8,7 +8,7 @@ Building tools that merge **logic, AI, and creativity**.
 ### 🔭 Currently working on
 - 🧩 **QuantumKit** — Powerfull Discord / Network Tool
 - 📚 **Learnly** — AI-powered learning app (built on top 100 AI models)  
-
+- [NetworkToolsAPI-Vscode Plugin](https://github.com/Badim41/network_tools) - A vscode addon that uses custom routes and can acsecc High-End AI
 ---
 
 ### 🌐 Websites
