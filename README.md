@@ -12,7 +12,7 @@ Building tools that merge **logic, AI, and creativity**.
 ---
 
 ### 🌐 Websites
-🌍 [sqrilizz.xyz](https://sqrilizz.xyz) — personal hub  
+🌍 [sqrilizz.xyz](https://sqrilizz.xyz) — personal hub)  
 🪪 [sqrilizz.fun](https://sqrilizz.fun) — my bio page  
 
 💬 Discord: `sqrilizzy`  
