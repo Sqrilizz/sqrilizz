@@ -20,7 +20,7 @@ Building tools that merge **AI**, **network engineering**, and **creative design
 🌍 [**sqrilizz.xyz**](https://sqrilizz.xyz) — main hub & projects  
 🪪 [**sqrilizz.fun**](https://sqrilizz.fun) — personal bio and links  
 
-💬 Discord: `@sqrilizzy`  
+💬 Discord: `@sqrilizz`  
 
 > *“Build. Break. Rebuild.”*
 
@@ -28,7 +28,7 @@ Building tools that merge **AI**, **network engineering**, and **creative design
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://discord.gg/sqrilizzy"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://discord.gg/sqrilizz"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
   <a href="https://instagram.com/Matve1m0k1"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="mailto:moki912011@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://tidal.com/@sqrilizz"><img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white"/></a>
