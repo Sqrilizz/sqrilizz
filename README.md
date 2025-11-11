@@ -48,7 +48,7 @@ Building tools that merge **AI**, **network engineering**, and **creative design
 
 ![](https://github-readme-stats.vercel.app/api?username=sqrilizz&show_icons=true&theme=radical&hide_border=false&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sqrilizz&layout=compact&theme=radical&hide_border=false)
-
+[![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg)](https://wakatime.com/@d26ac583-6e49-427f-9631-1b538a976f31)
 ---
 
 ## 💰 Support Me
