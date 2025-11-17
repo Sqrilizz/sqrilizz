@@ -18,7 +18,8 @@ Building tools that merge **AI**, **network engineering**, and **creative design
 
 ### 🌐 Websites
 🌍 [**sqrilizz.xyz**](https://sqrilizz.xyz) — main hub & projects  
-🪪 [**sqrilizz.fun**](https://sqrilizz.fun) — personal bio and links  
+🪪 [**sqrilizz.fun**](https://sqrilizz.fun) — personal bio and links  |![Status](https://img.shields.io/badge/Status-OFF-8a2be2?style=for-the-badge&logoColor=white)
+
 
 💬 Discord: `@sqrilizz`  
 
