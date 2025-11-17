@@ -4,7 +4,7 @@
 
 ## Hey there 👋
 
-I'm **Sqrilizz** — Developer from **Estonia** 🇪🇪  
+I'm **Matthew** — Developer from **Estonia** 🇪🇪  
 Building tools that merge **AI**, **network engineering**, and **creative design** ⚙️✨  
 
 ---
