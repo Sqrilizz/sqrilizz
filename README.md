@@ -26,7 +26,7 @@
 | **Project** | **Domain** | **Current State** |
 | :--- | :--- | :--- |
 | **QuantumKit** | Advanced **Network Intelligence** & Discord Tooling | ![Dev](https://img.shields.io/badge/Status-Development-orange?style=flat-square) |
-| **Learnly** | AI Education Platform (**150+ Models**) | ![Beta](https://img.shields.io/badge/Status-Public_Beta-blueviolet?style=flat-square) |
+| **Learnly** | AI Education Platform (**150+ Models**) | ![Beta](https://img.shields.io/badge/Status-Closed_Alpha-blueviolet?style=flat-square) |
 
 </div>
 
