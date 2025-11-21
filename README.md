@@ -83,6 +83,6 @@
 <a href="https://paypal.me/sqrilizz"><img src="https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" /></a>
 
 <br><br>
-<sub><b>Sqrilizz</b> • Estonia • 2024</sub>
+<sub><b>Sqrilizz</b> • Estonia • 2025</sub>
 
 </div>
