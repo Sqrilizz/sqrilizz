@@ -27,7 +27,7 @@
 | :--- | :--- | :--- |
 | **QuantumKit** | Advanced **Network Intelligence** & Discord Tooling | ![Dev](https://img.shields.io/badge/Status-Development-orange?style=flat-square) |
 | **Learnly** | AI Education Platform (**150+ Models**) | ![Beta](https://img.shields.io/badge/Status-Closed_Alpha-blueviolet?style=flat-square) |
-
+| **Auryx-Agent** | AI CLI agent | ![Beta](https://img.shields.io/badge/Status-Beta3.0-blueviolet?style=flat-square)
 </div>
 
 ---
