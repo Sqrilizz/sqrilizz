@@ -117,7 +117,7 @@ Looking to work on innovative projects in:
 
 <div align="center">
   
-[![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg)](https://wakatime.com/@d26ac583-6e49-427f-9631-1b538a976f31)
+![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg?color=313065&label_color=181733&style=flat)
 
 </div>
 
