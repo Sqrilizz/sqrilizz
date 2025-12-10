@@ -7,8 +7,6 @@
 <br>
 
 [![Website](https://img.shields.io/badge/🌐_sqrilizz.xyz-000000?style=for-the-badge&logoColor=white)](https://sqrilizz.xyz)
-[![Discord](https://img.shields.io/badge/Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sqrilizz)
-[![Portfolio](https://img.shields.io/badge/Bio_Link-6366f1?style=for-the-badge&logo=link&logoColor=white)](https://sqrilizz.fun)
 
 </div>
 
