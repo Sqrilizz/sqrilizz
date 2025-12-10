@@ -18,13 +18,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ QuantumKit
-**Advanced Network Intelligence & Discord Tooling**
+### ⚡ SqrilizzAI
+**Discord AI Bot for Bixland.ru**
 
-A comprehensive suite for network analysis, automation, and Discord bot development with cutting-edge features.
+An intelligent Discord bot powered by AI, designed to enhance the Bixland.ru server with automation, moderation, and interactive features.
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-Python_•_Node.js-blue?style=flat-square)
+![Tech](https://img.shields.io/badge/Stack-Python_•_YellowfireAPI-blue?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
