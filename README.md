@@ -61,7 +61,7 @@ Looking to work on innovative projects in:
 - **Distributed Networks**
 - **Developer Tools**
 
-[Let's connect →](https://discord.gg/sqrilizz)
+[Let's connect →](https://www.sqrilizz.xyz/contac)
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Looking to work on innovative projects in:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web & Frontend
