@@ -119,8 +119,7 @@ Looking to work on innovative projects in:
 
 <div align="center">
   
-[![Wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg?style=for-the-badge)](https://wakatime.com/@sqrilizz)
-![Profile Views](https://komarev.com/ghpvc/?username=sqrilizz&color=6366f1&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg)](https://wakatime.com/@d26ac583-6e49-427f-9631-1b538a976f31)
 
 </div>
 
@@ -134,7 +133,6 @@ I'm always open to interesting conversations, collaboration opportunities, and i
 
 [![Email](https://img.shields.io/badge/Email-sqrilizz%40pm.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqrilizz@pm.me)
 [![Telegram](https://img.shields.io/badge/Telegram-@sqrilizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrilizz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sqrilizz)
 
 </div>
 
