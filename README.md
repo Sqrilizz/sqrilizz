@@ -60,7 +60,7 @@ Looking to work on innovative projects in:
 - **Distributed Networks**
 - **Developer Tools**
 
-[Let's connect →](https://www.sqrilizz.xyz/contac)
+[Let's connect →](https://www.sqrilizz.xyz/contact)
 
 </td>
 </tr>
