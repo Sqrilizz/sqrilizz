@@ -1,157 +1,25 @@
-<div align="center">
+# 💫 About Me:
+Hi, I'm Matvey (Sqrilizz) — a developer from Tallinn.<br>I build systems, tools, and interactive platforms — from Minecraft mods and Discord bots to full-scale AI-powered projects. I focus on performance, clean architecture, and user experience.<br>Currently working on my own ecosystem of projects, combining development, design, and automation into one consistent vision.
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=280&section=header&text=SQRILIZZ&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Building%20the%20Future%20with%20AI&descSize=20&descAlign=50&descAlignY=58&stroke=6366f1&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=🌍+Based+in+Tallinn%2C+Estonia;🤖+AI+Engineer+%7C+Network+Architect+%7C+Creator;💡+Transforming+ideas+into+intelligent+systems)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Otherwise-Ebb628) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sqrilizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sqrilizzy@protonmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= sqrilizz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= sqrilizz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= sqrilizz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Website](https://img.shields.io/badge/🌐_sqrilizz.xyz-000000?style=for-the-badge&logoColor=white)](https://sqrilizz.xyz)
-[![OnlineTools](https://img.shields.io/badge/💫_sqrilizz.fun-000000?style=for-the-badge&logoColor=white)](https://sqrilizz.fun)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sqrilizz)
-</div>
-
----
-
-## 🚀 Current Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ SqrilizzAI
-**Discord AI Bot for Bixland.ru**
-
-An intelligent Discord bot powered by AI, designed to enhance the Bixland.ru server with automation, moderation, and interactive features.
-
-![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-Python_•_YellowfireAPI-blue?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Learnly
-**Next-Gen AI Education Platform**
-
-Access to **150+ AI models** for learning, research, and experimentation. Currently in closed alpha testing.
-
-![Status](https://img.shields.io/badge/Status-Closed_Alpha-blueviolet?style=flat-square)
-![Users](https://img.shields.io/badge/Models-150+-green?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Auryx-Agent
-**Intelligent CLI Assistant**
-
-AI-powered command-line agent for automation, task management, and developer productivity.
-
-![Status](https://img.shields.io/badge/Status-Beta_3.0-blueviolet?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Open to Collaborate
-Looking to work on innovative projects in:
-- **AI/ML Systems**
-- **Distributed Networks**
-- **Developer Tools**
-
-[Let's connect →](https://www.sqrilizz.xyz/contact)
-
-</td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= sqrilizz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id= sqrilizz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sqrilizz) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sqrilizz) 
 
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web & Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### AI & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sqrilizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sqrilizz&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqrilizz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sqrilizz&theme=tokyo-night&hide_border=true&area=true" height="170" />
-</div>
-
-<br>
-
-<div align="center">
   
-![wakatime](https://wakatime.com/badge/user/d26ac583-6e49-427f-9631-1b538a976f31.svg?color=313065&label_color=181733&style=flat)
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting conversations, collaboration opportunities, and innovative projects. Feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-sqrilizz%40pm.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqrilizz@pm.me)
-[![Telegram](https://img.shields.io/badge/Telegram-@sqrilizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrilizz)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects useful or interesting, consider supporting my work:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sqrilizz)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sqrilizz)
-
-<br>
-
----
-
-<sub>**© 2025 Sqrilizz** • Built with 🤖 in Tallinn, Estonia</sub>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
