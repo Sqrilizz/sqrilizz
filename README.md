@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Matthew (Sqrilizz) — a developer from Tallinn.<br>I build systems, tools, and interactive platforms — from Minecraft mods and Discord bots to full-scale AI-powered projects. I focus on performance, clean architecture, and user experience.<br>Currently working on my own ecosystem of projects, combining development, design, and automation into one consistent vision.
+Hi, I'm Matthew (Sqrilizz) - a developer from Tallinn.<br>I build systems, tools, and interactive platforms - from Minecraft mods and Discord bots to full-scale AI-powered projects. I focus on performance, clean architecture, and user experience.<br>Currently working on my own ecosystem of projects, combining development, design, and automation into one consistent vision.
+you can allways check my [Website](https://sqrilizz.xyz), maybe you would find something cool there. And also check my Linux finder website! [Find the right Linux distro](https://sqrilizz.fun)
 
 
 ## 🌐 Socials:
