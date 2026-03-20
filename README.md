@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Matvey (Sqrilizz) — a developer from Tallinn.<br>I build systems, tools, and interactive platforms — from Minecraft mods and Discord bots to full-scale AI-powered projects. I focus on performance, clean architecture, and user experience.<br>Currently working on my own ecosystem of projects, combining development, design, and automation into one consistent vision.
+Hi, I'm Matthew (Sqrilizz) — a developer from Tallinn.<br>I build systems, tools, and interactive platforms — from Minecraft mods and Discord bots to full-scale AI-powered projects. I focus on performance, clean architecture, and user experience.<br>Currently working on my own ecosystem of projects, combining development, design, and automation into one consistent vision.
 
 
 ## 🌐 Socials:
