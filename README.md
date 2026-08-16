@@ -4,8 +4,6 @@ I'm **Matvei (Sqrilizz)**, a developer from Tallinn, Estonia.
 
 I build software, tools, and infrastructure — from Minecraft projects and backend services to web platforms and automation.
 
-I care about **performance, clean architecture, good UX, and building things that are actually useful**.
-
 ---
 
 ## 🔗 Webiste
