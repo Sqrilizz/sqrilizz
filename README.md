@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/N0NJqNF8/match-cut.gif" width="420" alt="banner" />
+  <img src="https://i.postimg.cc/N0NJqNF8/match-cut.gif" width="500" alt="banner" />
 
   <br/><br/>
 
